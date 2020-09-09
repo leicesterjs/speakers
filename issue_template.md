@@ -1,10 +1,11 @@
-Talk Title:
+**Talk Title:**
 
-Talk Time (rough estimate):
+**Talk Time (rough estimate):**
 
-Do you want help preparing the talk?: 
+**Do you want help preparing the talk?:**
 
-Twitter URL:
+**Pronouns:**
 
-Description:
+**Twitter URL:**
 
+**Description:**
